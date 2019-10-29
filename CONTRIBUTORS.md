@@ -18,6 +18,12 @@
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
+#### Name: [Kuvam Devgan](https://github.com/phoenix-kd)
+- Place: Amritsar, IND
+- Bio: Student at TIET
+- GitHub: [Kuvam Devgan](https://github.com/phoenix-kd)
+
+
 #### Name: [Kyaa Kats](https://github.com/KyaaKats)
 - Place: Hawaii
 - Bio: Student at University of Hawaii
